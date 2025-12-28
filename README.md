@@ -1,5 +1,8 @@
 # 🌌 TeiguArchHyprland
 
+![Main Preview1](screenshots/1preview.png)
+![Main Preview2](screenshots/2preview.png)
+
 > Мой персональный конфиг Arch Linux + Hyprland. Эстетика, производительность и ничего лишнего.
 
 ---
