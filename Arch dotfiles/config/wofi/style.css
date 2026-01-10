@@ -1,6 +1,6 @@
 window {
     margin: 0px;
-    border: 2px solid #79868D;
+    border: 2px solid #9F8778;
     background-color: rgba(15, 15, 15, 0.9);
     border-radius: 20px;
     font-family: "JetBrainsMono Nerd Font";
@@ -11,7 +11,7 @@ window {
 #input {
     margin-bottom: 20px; /* Отступ строки поиска от списка */
     border: none;
-    color: #dce0df;
+    color: #e5dad2;
     background-color: rgba(255, 255, 255, 0.07);
     border-radius: 12px;
     padding: 12px;
@@ -30,13 +30,13 @@ window {
 }
 
 #entry:selected {
-    background-color: #79868D;
+    background-color: #9F8778;
     border: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 #text {
     margin-left: 15px;
-    color: #dce0df;
+    color: #e5dad2;
     font-size: 16px;
     vertical-align: center;
 }
